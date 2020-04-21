@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  margin-left: 20px; }
+  body img {
+    float: left;
+    width: 300px;
+    height: 250px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px; }
+  body h1 {
+    background-color: #7598c8;
+    padding: 10px;
+    padding-bottom: 50px; }
+  body section {
+    display: flex; }
+  body article {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: #eeeeee;
+    color: #1f3050; }
+  body dt {
+    background-color: #2a416f;
+    color: white;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    margin: 1em 0; }
+  body dd {
+    margin-bottom: 10px; }
+
+div {
+  clear: left; }
